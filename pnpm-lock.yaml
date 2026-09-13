@@ -203,10 +203,16 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  '@hexlet/code': 'link:'
+
 importers:
 
   .:
     dependencies:
+      '@hexlet/code':
+        specifier: 'link:'
+        version: 'link:'
       readline-sync:
         specifier: ^1.4.10
         version: 1.4.10

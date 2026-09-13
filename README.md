@@ -3,3 +3,4 @@
 [Демонстрация работы brain-even (чет/нечет)](https://asciinema.org/connect/671a0729-3127-4e69-aa0d-84369daed6ff
 )
 [Демонстрация работы: brain-gcd (НОД)](https://asciinema.org/connect/671a0729-3127-4e69-aa0d-84369daed6ff)
+[Демонстрация работы: brain-progression (Прогрессия)]( https://asciinema.org/connect/671a0729-3127-4e69-aa0d-84369daed6ff)
